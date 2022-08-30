@@ -41,7 +41,7 @@ Additional information about me
 ![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=white)
 
 
-<img src= https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif width="1000" height="300" >
+<img src= https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif width="800" height="300" >
 
 
 
