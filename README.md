@@ -7,7 +7,7 @@
 Additional information about me
 </summary>
 
-* Software QA Engineer with 7 years of experience in Quality Assurance, I have expertise in both Automation and Manual Testing of various applications (Web, Cloud, Client/Server, Desktop, Mobile). I am adept in Agile/SCRUM and familiar with SDLC, testing processes, and automation techniques (Front-End, API, Back-End, Performance, Regression). I have also worked extensively with Appium for automation testing of iOS and Android apps, as well as Xcode and Android Studio for mobile testing. With strong attention to detail, able to work independently or in a team environment
+* Software QA Engineer with 7 years of expertise in Quality Assurance, specializing in Automation and Manual Testing. Proficient in Agile/SCRUM methodologies, SDLC, and automation techniques. Accomplished in reducing manual testing efforts by 60% and accelerating release cycles. Implemented cross-browser testing suite, resulting in improved software quality and customer satisfaction. Experienced in Jenkins for seamless software delivery. Strong attention to detail and a collaborative team player.
  
 * Education: QA Automation Engineer Course at Silicon Valley CA.
 * In my free time, I play Ice Hockey 🏒 and Soccer as well ⚽.	
