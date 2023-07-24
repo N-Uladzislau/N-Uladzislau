@@ -7,9 +7,23 @@
 Additional information about me
 </summary>
 
-* Software QA Engineer with 7 years of expertise in Quality Assurance, specializing in Automation and Manual Testing. Proficient in Agile/SCRUM methodologies, SDLC, and automation techniques. Accomplished in reducing manual testing efforts by 60% and accelerating release cycles. Implemented cross-browser testing suite, resulting in improved software quality and customer satisfaction. Experienced in Jenkins for seamless software delivery. Strong attention to detail and a collaborative team player.
+* Quality Assurance Professional with more than 7 years in the field, actively seeking a challenging career
+opportunity as a Software QA Automation Engineer within the dynamic information technology industry. Eager to
+leverage my skills and abilities to drive professional growth while showcasing resourcefulness, innovation, and
+adaptability in a challenging environment.
+
+Skills
+Programming languages: Python, JavaScript, Java, HTML5, CSS3, SQL/MySQL
+Automation Testing Tools: Selenium WebDriver, Selenium IDE, Postman API, BrowserStack, WebdriverIO,
+Jasmine, Cucumber
+Source control: Git, GitHub, GitLab, Bitbucket
+Test case management tools: Jira Zephyr, TestLink, TestRail, ALM/Quality Center
+Performance testing tools: GTMetrix, Lighthouse, SpeedLab, JMeter
+Security testing: Mozilla Observatory, Snyk
+Documentation tools: Confluence, MS Office, Google Drive, Swagger
+OS: Windows, MacOS, iOS, Android
+Other tools: Unreal Engine 5, Blender, Blueprints, Docker, Jenkins
  
-* Education: QA Automation Engineer Course at Silicon Valley CA.
 * In my free time, I play Ice Hockey 🏒 and Soccer as well ⚽.	
 </details>
    
