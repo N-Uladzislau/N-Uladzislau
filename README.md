@@ -13,16 +13,16 @@ leverage my skills and abilities to drive professional growth while showcasing r
 adaptability in a challenging environment.
 
 Skills
-Programming languages: Python, JavaScript, Java, HTML5, CSS3, SQL/MySQL
-Automation Testing Tools: Selenium WebDriver, Selenium IDE, Postman API, BrowserStack, WebdriverIO,
+* Programming languages: Python, JavaScript, Java, HTML5, CSS3, SQL/MySQL
+* Automation Testing Tools: Selenium WebDriver, Selenium IDE, Postman API, BrowserStack, WebdriverIO,
 Jasmine, Cucumber
-Source control: Git, GitHub, GitLab, Bitbucket
-Test case management tools: Jira Zephyr, TestLink, TestRail, ALM/Quality Center
-Performance testing tools: GTMetrix, Lighthouse, SpeedLab, JMeter
-Security testing: Mozilla Observatory, Snyk
-Documentation tools: Confluence, MS Office, Google Drive, Swagger
-OS: Windows, MacOS, iOS, Android
-Other tools: Unreal Engine 5, Blender, Blueprints, Docker, Jenkins
+* Source control: Git, GitHub, GitLab, Bitbucket
+* Test case management tools: Jira Zephyr, TestLink, TestRail, ALM/Quality Center
+* Performance testing tools: GTMetrix, Lighthouse, SpeedLab, JMeter
+* Security testing: Mozilla Observatory, Snyk
+* Documentation tools: Confluence, MS Office, Google Drive, Swagger
+* OS: Windows, MacOS, iOS, Android
+* Other tools: Unreal Engine 5, Blender, Blueprints, Docker, Jenkins
  
 * In my free time, I play Ice Hockey 🏒 and Soccer as well ⚽.	
 </details>
