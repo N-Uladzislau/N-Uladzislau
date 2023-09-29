@@ -27,6 +27,10 @@ Jasmine, Cucumber
  
 * In my free time, I play Ice Hockey 🏒 and Soccer as well ⚽.	
 </details>
+
+- <span style="color: blue;">📄</span> Curious about my experiences? Check out my [Resume](https://drive.google.com/file/d/19GNCPkXhyqjBfVbimPdi-FQIWcDdNwqY/view).
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-uladzislau&label=Profile%20views&color=0e75b6&style=flat" alt="n-uladzislau" /> </p>
    
 ### Connect with me : 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/n-uladzislau/)
@@ -82,7 +86,7 @@ Jasmine, Cucumber
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Uladzislau&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Uladzislau&theme=gotham&show_icons=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau&theme=nord" alt="n-uladzislau" /></a> </p>
@@ -91,9 +95,6 @@ Jasmine, Cucumber
 
 
 
-- <span style="color: blue;">📄</span> Curious about my experiences? Check out my [Resume](https://drive.google.com/file/d/19GNCPkXhyqjBfVbimPdi-FQIWcDdNwqY/view).
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-uladzislau&label=Profile%20views&color=0e75b6&style=flat" alt="n-uladzislau" /> </p>
 
 <!--
 **N-Uladzislau/N-Uladzislau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
