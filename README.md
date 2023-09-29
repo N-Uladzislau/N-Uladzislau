@@ -37,10 +37,6 @@ Jasmine, Cucumber
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-%23FFA116)](https://leetcode.com/novka/)
 
 
-
-
-
-
 ### Languages and Tools :
 ![JavaScipt](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=blue)
