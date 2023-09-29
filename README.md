@@ -88,9 +88,10 @@ Jasmine, Cucumber
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau" alt="n-uladzislau" /></a> </p>
 
+- 📄 Curious about my experiences? Check out my [Resume](https://drive.google.com/file/d/19GNCPkXhyqjBfVbimPdi-FQIWcDdNwqY/view).
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19GNCPkXhyqjBfVbimPdi-FQIWcDdNwqY/view)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-uladzislau&label=Profile%20views&color=0e75b6&style=flat" alt="n-uladzislau" /> </p>
 
 <!--
 **N-Uladzislau/N-Uladzislau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
