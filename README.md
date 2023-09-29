@@ -40,11 +40,12 @@ Jasmine, Cucumber
 ![GitLab](https://img.shields.io/badge/GitLab-%23121011?style=for-the-badge&logo=gitlab)
 ![Cucumber](https://img.shields.io/badge/Cucumber-%23121011?style=for-the-badge&logo=cucumber)
 ![Jasmine](https://img.shields.io/badge/Jasmine-%23121011?style=for-the-badge&logo=jasmine&logoColor=%23FFFFFF)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23121011?style=for-the-badge&logo=webdriverio&logoColor=%23FFFFFF)
-![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-%23121011?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF)
-![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%23121011?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-%23121011?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)
-![Java](https://img.shields.io/badge/Java-%23121011?style=for-the-badge&logo=java&logoColor=%23FFFFFF)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23121011?style=for-the-badge&logo=webdriverio)
+![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%23121011?style=for-the-badge&logo=selenium)
+![CSS3](https://img.shields.io/badge/CSS3-%23121011?style=for-the-badge&logo=css3)
+![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-%23121011?style=for-the-badge&logo=selenium)
+![Java](https://img.shields.io/badge/Java-%23121011?style=for-the-badge&logo=java)
+
 
 
 
