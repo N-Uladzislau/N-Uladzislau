@@ -35,7 +35,7 @@ Jasmine, Cucumber
 ### Codewars: 
 [![Codewars](https://img.shields.io/badge/Codewars-profile-%23FF0000)](https://www.codewars.com/users/novka)
 
-###
+### LeetCode:
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-%23FFA116)](https://leetcode.com/novka/)
 
 
