@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Software QA Automation Engineer, based in Los Angeles🌇.
+## I'm Software QA Automation Engineer, based in Los Angeles, CA🌇.
 
 <details>
 <summary>
