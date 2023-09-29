@@ -43,6 +43,8 @@ Jasmine, Cucumber
 ![Apple OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_11-090909?style=for-the-badge&logo=windows&logoColor=blue)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js&logoColor=Green)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=orange)
 ![MySQL](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=Mysql&logoColor=orange)
