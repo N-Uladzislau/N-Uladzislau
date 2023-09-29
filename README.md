@@ -45,6 +45,7 @@ Jasmine, Cucumber
 
 
 ### Languages and Tools :
+• JavaScript
 ![JavaScipt](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=blue)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=Sql&logoColor=white)
