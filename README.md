@@ -37,7 +37,7 @@ Jasmine, Cucumber
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-%23FFA116)](https://leetcode.com/novka/)
 
 
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab)
+![GitLab](https://img.shields.io/badge/GitLab-%23121011?style=for-the-badge&logo=gitlab)
 ![Cucumber](https://img.shields.io/badge/Cucumber-%23121011?style=for-the-badge&logo=cucumber&logoColor=%23FFFFFF)
 ![Jasmine](https://img.shields.io/badge/Jasmine-%23121011?style=for-the-badge&logo=jasmine&logoColor=%23FFFFFF)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23121011?style=for-the-badge&logo=webdriverio&logoColor=%23FFFFFF)
