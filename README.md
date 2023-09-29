@@ -33,6 +33,8 @@ Jasmine, Cucumber
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:uladzislaunovik7@gmail.com)
 
 ### Codewars: 
+[![Codewars](https://img.shields.io/badge/Codewars-profile-%23FF0000)](https://www.codewars.com/users/novka)
+
 [![Codewars](https://img.shields.io/badge/Codewars-url-%23FF0000)](https://www.codewars.com/users/novka)
 
 ### Languages and Tools :
