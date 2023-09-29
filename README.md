@@ -36,6 +36,9 @@ Jasmine, Cucumber
 [![Codewars](https://img.shields.io/badge/Codewars-profile-%23FF0000)](https://www.codewars.com/users/novka) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-%23FFA116)](https://leetcode.com/novka/)
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
 
 ### Languages and Tools :
 ![JavaScipt](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
@@ -46,7 +49,6 @@ Jasmine, Cucumber
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_11-090909?style=for-the-badge&logo=windows&logoColor=blue)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js&logoColor=Green)
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=orange)
 ![MySQL](https://img.shields.io/badge/-Mysql-090909?style=for-the-badge&logo=Mysql&logoColor=orange)
@@ -60,6 +62,8 @@ Jasmine, Cucumber
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=blue)
 ![UE5](https://img.shields.io/badge/-Unreal_engine-090909?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=white)
+
+
 
 
 <img src= https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif width="800" height="300" >
