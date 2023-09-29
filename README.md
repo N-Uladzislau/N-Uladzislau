@@ -37,14 +37,6 @@ Jasmine, Cucumber
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-%23FFA116)](https://leetcode.com/novka/)
 
 
-![GitLab](https://img.shields.io/badge/GitLab-%23121011?style=for-the-badge&logo=gitlab)
-![Cucumber](https://img.shields.io/badge/Cucumber-%23121011?style=for-the-badge&logo=cucumber)
-![Jasmine](https://img.shields.io/badge/Jasmine-%23121011?style=for-the-badge&logo=jasmine&logoColor=%23FFFFFF)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23121011?style=for-the-badge&logo=webdriverio)
-![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%23121011?style=for-the-badge&logo=selenium)
-![CSS3](https://img.shields.io/badge/CSS3-%23232F3E?style=for-the-badge&logo=css3)
-![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-%23121011?style=for-the-badge&logo=selenium)
-![Java](https://img.shields.io/badge/Java-%23121011?style=for-the-badge&logo=java)
 
 
 
@@ -74,7 +66,14 @@ Jasmine, Cucumber
 ![AWS](https://img.shields.io/badge/AWS-%23121011?style=for-the-badge&logo=amazon-aws&logoColor=%23FFD700)
 ![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash)
 ![VMware](https://img.shields.io/badge/VMware-%23121011?style=for-the-badge&logo=vmware&logoColor=%23FFFFFF)
-
+![GitLab](https://img.shields.io/badge/GitLab-%23121011?style=for-the-badge&logo=gitlab)
+![Cucumber](https://img.shields.io/badge/Cucumber-%23121011?style=for-the-badge&logo=cucumber)
+![Jasmine](https://img.shields.io/badge/Jasmine-%23121011?style=for-the-badge&logo=jasmine&logoColor=%23FFFFFF)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23121011?style=for-the-badge&logo=webdriverio)
+![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%23121011?style=for-the-badge&logo=selenium)
+![CSS3](https://img.shields.io/badge/CSS3-%23232F3E?style=for-the-badge&logo=css3)
+![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-%23121011?style=for-the-badge&logo=selenium)
+![Java](https://img.shields.io/badge/Java-%23121011?style=for-the-badge&logo=java)
 
 
 <img src= https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif width="800" height="300" >
