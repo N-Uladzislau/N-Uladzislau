@@ -156,6 +156,44 @@ Jasmine, Cucumber
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Vlad Novik</h1>
+<h3 align="center">I'm Software QA Automation Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-uladzislau&label=Profile%20views&color=0e75b6&style=flat" alt="n-uladzislau" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau" alt="n-uladzislau" /></a> </p>
+
+- 🔭 I’m currently working on **StockX**
+
+- 👯 I’m looking for new opportunity **As QA Automation Engineer**
+
+- How to reach me **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/n-uladzislau/)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/N-Uladzislau/Portfolio_Project](https://github.com/N-Uladzislau/Portfolio_Project)
+
+- 📫 How to reach me **[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:uladzislaunovik7@gmail.com)**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/19GNCPkXhyqjBfVbimPdi-FQIWcDdNwqY/view](https://drive.google.com/file/d/19GNCPkXhyqjBfVbimPdi-FQIWcDdNwqY/view)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-uladzislau&show_icons=true&locale=en&layout=compact" alt="n-uladzislau" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-uladzislau&show_icons=true&locale=en" alt="n-uladzislau" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-uladzislau&" alt="n-uladzislau" /></p>
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
