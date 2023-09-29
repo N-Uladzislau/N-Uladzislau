@@ -71,8 +71,7 @@ Jasmine, Cucumber
 ![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-%23121011?style=for-the-badge&logo=selenium)
 ![Java](https://img.shields.io/badge/Java-%23121011?style=for-the-badge&logo=java)
 
-
-<img src= https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif width="800" height="300" >
+![GitHub Front Page Image](https://via.placeholder.com/800x300.png?text=Your%20Image%20Here)
 
 
 
