@@ -84,7 +84,7 @@ Jasmine, Cucumber
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Uladzislau&theme=gotham&show_icons=true&)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Uladzislau&theme=gotham&show_icons=true&)
 
 
 <!--
