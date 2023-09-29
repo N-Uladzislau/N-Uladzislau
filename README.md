@@ -82,6 +82,7 @@ Jasmine, Cucumber
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Uladzislau&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau&theme=nord&no-pr=true&no-anime=true" alt="n-uladzislau" /></a> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau&theme=darkhub" alt="n-uladzislau" /></a> </p>
