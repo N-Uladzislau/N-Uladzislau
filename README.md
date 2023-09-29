@@ -37,6 +37,18 @@ Jasmine, Cucumber
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-%23FFA116)](https://leetcode.com/novka/)
 
 
+![GitLab](https://img.shields.io/badge/GitLab-%23121011?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF)
+![Git](https://img.shields.io/badge/Git-%23121011?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
+![Cucumber](https://img.shields.io/badge/Cucumber-%23121011?style=for-the-badge&logo=cucumber&logoColor=%23FFFFFF)
+![Jasmine](https://img.shields.io/badge/Jasmine-%23121011?style=for-the-badge&logo=jasmine&logoColor=%23FFFFFF)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23121011?style=for-the-badge&logo=webdriverio&logoColor=%23FFFFFF)
+![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-%23121011?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF)
+![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%23121011?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-%23121011?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)
+![Java](https://img.shields.io/badge/Java-%23121011?style=for-the-badge&logo=java&logoColor=%23FFFFFF)
+
+
+
 ### Languages and Tools :
 ![JavaScipt](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=blue)
