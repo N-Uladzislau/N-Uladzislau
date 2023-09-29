@@ -39,7 +39,7 @@ Jasmine, Cucumber
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23000000?style=for-the-badge&logo=amazon-aws&logoColor=%23FFD700)
-![Bash](https://img.shields.io/badge/Bash-%23FFD700?style=for-the-badge&logo=gnu-bash&logoColor=000000)
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash)
 
 
 
