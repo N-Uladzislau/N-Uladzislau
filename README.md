@@ -1,4 +1,4 @@
-# Hi there 👋
+ # Hi there 👋
 
 ## I'm Software QA Automation Engineer, based in Los Angeles, CA🌇.
 
@@ -88,6 +88,7 @@ Jasmine, Cucumber
 
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau&theme=nord" alt="n-uladzislau" /></a> </p>
 
 <!--
 **N-Uladzislau/N-Uladzislau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
