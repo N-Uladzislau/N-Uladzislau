@@ -86,6 +86,10 @@ Jasmine, Cucumber
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau&theme=darkhub" alt="n-uladzislau" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau&theme=nord" alt="n-uladzislau" /></a> </p>
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau" alt="n-uladzislau" /></a> </p>
 
