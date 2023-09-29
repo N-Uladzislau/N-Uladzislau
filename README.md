@@ -94,15 +94,27 @@ Jasmine, Cucumber
 ![UE5](https://img.shields.io/badge/-Unreal_engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-000000?style=for-the-badge&logo=slack&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=%23FFD700)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=%23FFFFFF)
+
+
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash)
+
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash)
+
 ![VMware](https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=%23FFFFFF)
-![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF)
-![Cucumber](https://img.shields.io/badge/Cucumber-000000?style=for-the-badge&logo=cucumber&logoColor=%23FFFFFF)
+
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab)
+
+![Cucumber](https://img.shields.io/badge/Cucumber-000000?Cucumber-%23121011?style=for-the-badge&logo=cucumber)
+
 ![Jasmine](https://img.shields.io/badge/Jasmine-000000?style=for-the-badge&logo=jasmine&logoColor=%23FFFFFF)
-![WebdriverIO](https://img.shields.io/badge/WebdriverIO-000000?style=for-the-badge&logo=webdriverio&logoColor=%23FFFFFF)
-![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-000000?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)
-![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-000000?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF)
+
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-000000?style=for-the-badge&logo=webdriverio)
+
+![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-000000?style=for-the-badge&logo=selenium)
+
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+
+![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-000000?style=for-the-badge&logo=selenium)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=%23FFFFFF)
 
 
