@@ -29,7 +29,7 @@ Jasmine, Cucumber
 
 * - <span style="color: blue;">📄</span> Curious about my experiences? Check out my [Resume](https://drive.google.com/file/d/19GNCPkXhyqjBfVbimPdi-FQIWcDdNwqY/view).
 
-* - <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-uladzislau&label=Profile%20views&color=0e75b6&style=flat" alt="n-uladzislau" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-uladzislau&label=Profile%20views&color=0e75b6&style=flat" alt="n-uladzislau" /> </p>
 </details>
 
 
