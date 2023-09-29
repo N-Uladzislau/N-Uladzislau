@@ -83,14 +83,12 @@ Jasmine, Cucumber
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Uladzislau&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau&theme=darkhub" alt="n-uladzislau" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau&theme=nord" alt="n-uladzislau" /></a> </p>
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-uladzislau" alt="n-uladzislau" /></a> </p>
 
 - <span style="color: blue;">📄</span> Curious about my experiences? Check out my [Resume](https://drive.google.com/file/d/19GNCPkXhyqjBfVbimPdi-FQIWcDdNwqY/view).
 
