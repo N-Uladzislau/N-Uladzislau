@@ -122,46 +122,6 @@ Jasmine, Cucumber
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**N-Uladzislau/N-Uladzislau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Vlad Novik</h1>
 <h3 align="center">I'm Software QA Automation Engineer</h3>
 
@@ -201,4 +161,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<!--
+**N-Uladzislau/N-Uladzislau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+
+
+
+
+
+
+
 -->
