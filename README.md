@@ -106,7 +106,19 @@ Jasmine, Cucumber
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=%23FFFFFF)
 
 
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-000000?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-000000?style=for-the-badge)
+![Jasmine](https://img.shields.io/badge/Jasmine-000000?style=for-the-badge)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-000000?style=for-the-badge)
 
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge)
+![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-000000?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge)
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge)
+
+![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-000000?style=for-the-badge)
 
 
 
