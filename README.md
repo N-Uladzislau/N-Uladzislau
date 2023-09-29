@@ -37,15 +37,7 @@ Jasmine, Cucumber
 [![LeetCode](https://img.shields.io/badge/LeetCode-profile-%23FFA116)](https://leetcode.com/novka/)
 
 
-
-![AWS](https://img.shields.io/badge/AWS-%23121011?style=for-the-badge&logo=amazon-aws&logoColor=%23FFD700)
-![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash)
-![VMware](https://img.shields.io/badge/VMware-%23121011?style=for-the-badge&logo=vmware&logoColor=%23FFFFFF)
-
-
-
 ### Languages and Tools :
-• JavaScript
 ![JavaScipt](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=blue)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=Sql&logoColor=white)
@@ -67,7 +59,9 @@ Jasmine, Cucumber
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=blue)
 ![UE5](https://img.shields.io/badge/-Unreal_engine-090909?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-090909?style=for-the-badge&logo=slack&logoColor=white)
-
+![AWS](https://img.shields.io/badge/AWS-%23121011?style=for-the-badge&logo=amazon-aws&logoColor=%23FFD700)
+![Bash](https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash)
+![VMware](https://img.shields.io/badge/VMware-%23121011?style=for-the-badge&logo=vmware&logoColor=%23FFFFFF)
 
 
 
