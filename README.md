@@ -38,7 +38,7 @@ Jasmine, Cucumber
 
 
 ![GitLab](https://img.shields.io/badge/GitLab-%23121011?style=for-the-badge&logo=gitlab)
-![Cucumber](https://img.shields.io/badge/Cucumber-%23121011?style=for-the-badge&logo=cucumber&logoColor=%23FFFFFF)
+![Cucumber](https://img.shields.io/badge/Cucumber-%23A4C639?style=for-the-badge&logo=cucumber)
 ![Jasmine](https://img.shields.io/badge/Jasmine-%23121011?style=for-the-badge&logo=jasmine&logoColor=%23FFFFFF)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-%23121011?style=for-the-badge&logo=webdriverio&logoColor=%23FFFFFF)
 ![Selenium IDE](https://img.shields.io/badge/Selenium%20IDE-%23121011?style=for-the-badge&logo=selenium&logoColor=%23FFFFFF)
