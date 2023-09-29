@@ -34,8 +34,9 @@ Jasmine, Cucumber
 
 ### Codewars: 
 [![Codewars](https://img.shields.io/badge/Codewars-profile-%23FF0000)](https://www.codewars.com/users/novka)
+###
+[![LeetCode](https://img.shields.io/badge/LeetCode-profile-%23FFA116)](https://leetcode.com/novka/)
 
-[![Codewars](https://img.shields.io/badge/Codewars-url-%23FF0000)](https://www.codewars.com/users/novka)
 
 ### Languages and Tools :
 ![JavaScipt](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=yellow)
